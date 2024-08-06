@@ -8,7 +8,7 @@
         "Web 2.0 & Web 3.0 development",
         "Design"
       ],
-      "projects": [
+      "ton_projects": [
         {
           "name": "XJetSwapBot",
           "link": "http://t.me/xjetswapbot"
@@ -34,6 +34,9 @@
           "link": "http://burn.astralyx.dev"
         }
       ],
+      "projects": [
+        
+      ],
       "contacts": {
         "website": "http://astralyx.dev",
         "email": "contact@astralyx.dev"
@@ -47,6 +50,9 @@
         "Telegram Mini Apps",
         "Web 2.0 & Web 3.0 development",
         "Integration"
+      ],
+      "ton_projects": [
+        
       ],
       "projects": [
         {
@@ -83,6 +89,9 @@
         "Crypto Wallets",
         "NFT-based solutions"
       ],
+      "ton_projects": [
+        
+      ],
       "projects": [
         {
           "name": "Alium Finance",
@@ -114,7 +123,7 @@
         "Web 2.0 & Web 3.0 development",
         "Telegram bots"
       ],
-      "projects": [
+      "ton_projects": [
         {
           "name": "Tonraffles Lock Module",
           "link": "https://tonraffles.app/lock"
@@ -132,6 +141,9 @@
           "link": "https://www.monaki.life/"
         }
       ],
+      "projects": [
+        
+      ],
       "contacts": {
         "website": "https://coinvent.dev",
         "telegram": "https://t.me/coinvent_dev",
@@ -148,6 +160,9 @@
         "Telegram Mini Apps",
         "Telegram bots",
         "Cybersecurity"
+      ],
+      "ton_projects": [
+        
       ],
       "projects": [
         {
