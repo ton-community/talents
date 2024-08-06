@@ -11,6 +11,12 @@
         "Web 2.0",
         "Web 3.0"
       ],
+      "ton_projects": [
+        {
+          "name": "TON Project 1",
+          "link": "https://tonproject1.com"
+        }
+      ],
       "projects": [
         {
           "name": "Awesome project",
@@ -33,6 +39,12 @@
         "Cybersecurity",
         "Integration",
         "Blockchain"
+      ],
+      "ton_projects": [
+        {
+          "name": "TON DeFi Platform",
+          "link": "https://tondefiplatform.com"
+        }
       ],
       "projects": [
         {
