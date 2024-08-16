@@ -1,61 +1,25 @@
 {
   "items": [
     {
-      "name": "Alice Smith",
-      "summary": "Won the Best DApp Award at TOL Hackathon 2024",
+      "name": "Shon Ness",
+      "summary": "Python Developer",
       "tags": [
-        "Smart-contracts",
-        "dApps",
-        "NFTs",
-        "Design",
-        "Web 2.0",
-        "Web 3.0"
+        "Python"
       ],
       "ton_projects": [
         {
-          "name": "TON Project 1",
-          "link": "https://tonproject1.com"
+          "name": "TON Mendon",
+          "link": "https://tonmendon.com/"
         }
       ],
       "projects": [
         {
-          "name": "Awesome project",
-          "link": "https://example.com"
         }
       ],
       "contacts": {
-        "website": "https://www.linkedin.com/in/alicesmith",
-        "email": "alice.smith@example.com",
-        "github": "https://github.com/alicesmith"
-      }
-    },
-    {
-      "name": "Charlie Brown",
-      "summary": "Developed a successful DeFi platform with 5000 active users. Winner of TON Smart Challenge 1 (5th place out of 220)",
-      "tags": [
-        "Smart-contracts",
-        "Telegram Mini Apps",
-        "Blockchain",
-        "Cybersecurity",
-        "Integration",
-        "Blockchain"
-      ],
-      "ton_projects": [
-        {
-          "name": "TON DeFi Platform",
-          "link": "https://tondefiplatform.com"
-        }
-      ],
-      "projects": [
-        {
-          "name": "Awesome project",
-          "link": "https://example.com"
-        }
-      ],
-      "contacts": {
-        "website": "https://www.linkedin.com/in/charliebrown",
-        "email": "charlie.brown@example.com",
-        "github": "https://github.com/charliebrown"
+        "website": "https://cv.ness.su/",
+        "email": "shonness98@gmail.com",
+        "github": "https://github.com/nessshon"
       }
     }
   ]
