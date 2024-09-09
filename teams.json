@@ -191,6 +191,34 @@
         "website": "https://softstack.io/",
         "telegram": "https://t.me/yannikheinze"
       }
+    },
+    {
+      "name": "BlockApex",
+      "summary": "BlockApex is a security-first blockchain consultation firm, focusing on providing development and security services to web3 stakeholders, founders and enterprises. Additionally, we specialize in Token Engineering & TON based DApps.",
+      "tags": [
+        "dApps",
+        "Smart-contracts",
+        "Web 2.0 & Web 3.0 development",
+        "Smart-contract-audit",
+        "Cybersecurity",
+        "DeFi",
+        "Tokenomics & Token Engineering",
+        "Telegram Mini Apps"
+      ],
+      "ton_projects": [
+        
+      ],
+      "projects": [
+        {
+          "name": "Push The Button",
+          "link": "https://pushthebutton.lol"
+        }
+      ],
+      "contacts": {
+        "email": "hello@blockapex.io",
+        "website": "https://blockapex.io/",
+        "telegram": "https://t.me/NadirAlii"
+      }
     }
   ]
 }
